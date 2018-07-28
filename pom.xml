@@ -53,7 +53,7 @@
    <configuration>
       <resourceGroup>maven-projects</resourceGroup>
       <appName>${project.artifactId}-${maven.build.timestamp}</appName>
-      <region>chinawestus</region>
+      <region>chinanorth</region>
       <javaVersion>1.8</javaVersion>
       <deploymentType>war</deploymentType>
    </configuration>
